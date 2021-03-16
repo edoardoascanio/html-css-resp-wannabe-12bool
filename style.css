@@ -99,15 +99,15 @@ h1, h3, p{
     }
     
     .contain img{
-        width: 20%;
-        margin-left: 40%;
-        margin-top: 5%;
+        width: 30%;
+        margin-left: 35%;
+        margin-top: 10%;
     }
     
     #maps{
         width: 20%;
         margin-left: 40%;
-        margin-top: 5%;
+        margin-top: 10%;
     }
     
     #why{
@@ -117,5 +117,5 @@ h1, h3, p{
         background-color: #428bca;
         border-radius: 50%;
         padding: 30px
-      }
+    }
 }
