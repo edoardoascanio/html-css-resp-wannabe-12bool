@@ -13,7 +13,6 @@
 [class*="col-"]{
     float: left;
     width: fit-content;
-    height: 300px;
     position: relative; 
 }
 
